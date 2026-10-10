@@ -1,6 +1,5 @@
-هذا هو ملف `main.py` كاملًا. يقرأ الرمز من `TELEGRAM_BOT_TOKEN` في أسرار Replit ولا يتضمن الرمز نفسه. **بما أن النسخة السابقة احتوت رمزًا مكتوبًا داخل الملف، ألغِ الرمز القديم من BotFather وأنشئ آخر، ثم حدّث السر في Replit.**
 
-```python
+
 import logging
 import os
 import random
